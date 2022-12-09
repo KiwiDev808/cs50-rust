@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because the poor performance on a reversed list
+
+sort2 uses: Merge Sort
+
+How do you know?: Because to a reversed list a merge sort would be the fastest
+
+sort3 uses: Insertion Sort
+
+How do you know?: Because the performance is better than bubble sort

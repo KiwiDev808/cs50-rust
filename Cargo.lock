@@ -74,6 +74,10 @@ name = "scrabble_rs"
 version = "0.1.0"
 
 [[package]]
+name = "sort-rs"
+version = "0.1.0"
+
+[[package]]
 name = "substitution_rs"
 version = "0.1.0"
 
