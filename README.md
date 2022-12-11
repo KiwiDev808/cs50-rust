@@ -25,7 +25,6 @@ O Rust CS50 é a resolução dos desafios passados no CS50 de forma a aprender a
 
 ## 📝 Semanas
 
-- [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week0' >Week 0</a>
 - [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week1' >Week 1</a>
 - [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week2' >Week 2</a>
 - [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week3' >Week 3</a>
