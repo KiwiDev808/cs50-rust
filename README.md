@@ -16,7 +16,7 @@
 </p>
 
 <div align='center'>
-    
+
 </div>
 
 ## Rust CS50
@@ -25,13 +25,13 @@ O Rust CS50 é a resolução dos desafios passados no CS50 de forma a aprender a
 
 ## 📝 Semanas
 
-- [x] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-0' >Week 0</a>
-- [x] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-1' >Week 1</a>
-- [ ] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-2' >Week 2</a>
-- [ ] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-3' >Week 3</a>
-- [ ] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-4' >Week 4</a>
-- [ ] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-5' >Week 5</a>
-- [ ] <a href='https://github.com/KiwiDev808/CS50-rust/tree/main/week-6' >Week 6</a>
+- [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week0' >Week 0</a>
+- [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week1' >Week 1</a>
+- [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week2' >Week 2</a>
+- [x] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week3' >Week 3</a>
+- [ ] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week4' >Week 4</a>
+- [ ] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week5' >Week 5</a>
+- [ ] <a href='https://github.com/KiwiDev808/cs50-rust/tree/main/week6' >Week 6</a>
 
 ## 👷‍♀️ Como rodar a aplicação
 
