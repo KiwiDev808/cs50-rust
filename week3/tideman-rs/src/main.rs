@@ -78,7 +78,14 @@ fn main() {
     let mut locked: Locked = [[false; MAX as usize]; MAX as usize];
 
     add_pairs(preferences, &mut pairs);
+
     sort_pairs(&mut pairs, preferences);
+    for pair in &pairs {
+        println!(
+            "winner: {} loser: {}, vote_count {}",
+            pair.winner, pair.loser, preferences[pair.winner][pair.loser]
+        );
+    }
     lock_pairs(&mut locked, pairs);
     print_winner(locked, candidate_count, candidates);
 }
