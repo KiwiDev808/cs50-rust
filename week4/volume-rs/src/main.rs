@@ -60,7 +60,7 @@ fn main() {
         for sample_byte in wav_data.data {
             let sample_with_factor =
                 sample_manipulator::apply_factor_to_8_bit_sample(sample_byte, factor);
-            let parsed_vgialue = sample_manipulator::truncate_8_bit_sample(sample_with_factor);
+            let parsed_value = sample_manipulator::truncate_8_bit_sample(sample_with_factor);
 
             output
                 .write_all(&[parsed_value])
