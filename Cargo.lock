@@ -83,6 +83,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "recover-rs"
+version = "0.1.0"
+
+[[package]]
+name = "reverse-rs"
+version = "0.1.0"
+
+[[package]]
 name = "scrabble_rs"
 version = "0.1.0"
 
